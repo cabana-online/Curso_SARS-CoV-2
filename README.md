@@ -23,9 +23,9 @@ El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una 
 
 
 
-### Módulo 1: [Introducción a Google Colaboratory](https://github.com/lusacristan/Introduccion/blob/main/01.Intro_a_colab.ipynb)
+### Módulo 1: [Introducción a Google Colaboratory](https://github.com/cabana-online/Tutorial_Introduccion/blob/main/01.Intro_a_colab.ipynb)
 
-Los módulos 1, 2 y 3 se encuentran en el repositorio de [Introducción](https://github.com/lusacristan/Introduccion)
+Los módulos 1, 2 y 3 se encuentran en el repositorio de [Introducción](https://github.com/cabana-online/Tutorial_Introduccion)
 
 Para comenzar, vaya a https://colab.research.google.com/.
 
@@ -33,7 +33,7 @@ En la página de inicio de Colab, seleccione "Archivo" y luego "Abrir bloc de no
 
 Hay una pestaña para "GitHub"; seleccione esa pestaña y pegue la siguiente URL en la barra de búsqueda debajo de "Ingresa una URL de GitHub o realiza una búsqueda por organización o usuario":
 
-`https://github.com/lusacristan/Introduccion`
+`https://github.com/cabana-online/Tutorial_Introduccion`
 
 
 Después de una breve búsqueda verá el notebook:
@@ -46,13 +46,13 @@ Para ejecutar las celdas, deberá iniciar sesión con su cuenta de Google (es li
 
 **Nota:** existen limitaciones en la versión gratuita, pero no serán alcanzadas en este curso.
 
-### Módulo 2: [Introducción a Notebooks y Unix/Linux.](https://github.com/lusacristan/Introduccion/blob/main/02.Modulo_2_linux.ipynb)
+### Módulo 2: [Introducción a Notebooks y Unix/Linux.](https://github.com/cabana-online/Tutorial_Introduccion/blob/main/02.Modulo_2_linux.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Introduccion`
+`https://github.com/cabana-online/Tutorial_Introduccion`
 
 Después de una breve búsqueda verá el notebook:
 
@@ -61,13 +61,13 @@ Después de una breve búsqueda verá el notebook:
 Seleccione y verá el notebook abierto.
 
 
-### Módulo 3: [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](https://github.com/lusacristan/Introduccion/blob/main/03.Modulo_3_NGS.ipynb)
+### Módulo 3: [Introducción a las tecnologías de NGS empleadas en el secuenciamiento del SARS-CoV-2.](https://github.com/cabana-online/Tutorial_Introduccion/blob/main/03.Modulo_3_NGS.ipynb)
 
 Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Introduccion`
+`https://github.com/cabana-online/Tutorial_Introduccion`
 
 Después de una breve búsqueda verá el notebook:
 
@@ -81,7 +81,7 @@ Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+`https://github.com/cabana-online/Curso_SARS-CoV-2`
 
 Después de una breve búsqueda verá el notebook:
 
@@ -101,7 +101,7 @@ Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+`https://github.com/cabana-online/Curso_SARS-CoV-2`
 
 
 Después de una breve búsqueda verá los notebooks:
@@ -118,7 +118,7 @@ Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+`https://github.com/cabana-online/Curso_SARS-CoV-2`
 
 Después de una breve búsqueda verá el notebook:
 
@@ -132,11 +132,10 @@ Vaya a https://colab.research.google.com/.
 
 Seleccione el repositorio
 
-`https://github.com/lusacristan/Curso-SARS-CoV-2-espanol`
+`https://github.com/cabana-online/Curso_SARS-CoV-2`
 
 Después de una breve búsqueda verá el notebook:
 
 `07.Modulo_7_filogenetica.ipynb`
 
 Seleccione y verá el notebook abierto.
-
