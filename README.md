@@ -2,8 +2,8 @@
 Repositorio del curso "Bioinformática para el análisis de SARS-CoV-2 para principiantes." 
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13650233.svg)](https://doi.org/10.5281/zenodo.13650233)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13650233.svg)](https://doi.org/10.5281/zenodo.13650233)
 
 
 ## Resumen
