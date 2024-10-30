@@ -8,13 +8,15 @@ Repositorio del curso "Bioinformática para el análisis de SARS-CoV-2 para prin
 
 ## Resumen
 
-El análisis continuo del SARS-CoV-2 permite monitorear la propagación del virus, entender cómo está evolucionando a lo largo del tiempo y facilitar la implementación de medidas efectivas en salud pública. Este curso tiene como objetivo dar una introducción a la bioinformática mediante el análisis de datos genoḿicos del virus SARS-CoV-2. En este curso se analizarán genomas virales obtenidos mediante diferentes tipos de secuenciación, se determinarán los diferentes linajes de las variantes del virus y se aprenderá a compartir estos datos con el resto del mundo.
+El análisis continuo del SARS-CoV-2 permite monitorear la propagación del virus, entender cómo está evolucionando a lo largo del tiempo y facilitar la implementación de medidas efectivas en salud pública. Este curso tiene como objetivo dar una introducción a la bioinformática mediante el análisis de datos genoḿicos del virus SARS-CoV-2. En este curso se analizarán genomas virales obtenidos mediante diferentes tipos de secuenciación y  se determinarán los diferentes linajes de las variantes del virus.
 
 ## Objetivos de aprendizaje
 
+- Aprender a manejar la línea de comandos y el lenguaje de scripting BASH, desarrollando habilidades esenciales para la gestión de archivos y la ejecución de herramientas bioinformáticas en entornos Linux.
 - Aplicar herramientas de línea de comandos para el control de calidad de datos de secuencias.
 - Identificar los formatos de los archivos comúnmente utilizados en la secuenciación del SARS-CoV-2.
-- Utilizar Pangolin para la identificación de  linajes virales a partir de conjuntos de datos existentes.
+- Utilizar herramientas bioinformáticas en pipelines de análisis de SARS-CoV-2, aplicando técnicas de secuenciación Illumina y Nanopore para el procesamiento, análisis y visualización de datos genómicos.
+- Utilizar Pangolin para la identificación de linajes virales a partir de conjuntos de datos existentes.
 
 ## Público objetivo
 
@@ -23,6 +25,10 @@ El curso está dirigido a estudiantes, investigadores o profesionales clínicos/
 ## Requisitos generales
 
 El curso utilizará Google Colaboratory, el cual es gratuito, pero requiere una cuenta de Google para su uso. Las cuentas de Google son gratuitas.
+
+## Agradecimientos
+
+Agradecemos al equipo a cargo del desarrollo del curso **SARS-CoV-2 Bioinformatics for Beginners**, disponible en el repositorio: https://github.com/WCSCourses/SARS-COV-2_B4B, cuyo contenido y recursos han sido esenciales para la creación de este tutorial. Asimismo, reconocemos el apoyo de [Wellcome Connecting Science](https://www.wellcomeconnectingscience.org/) y [COG-Train](https://coursesandconferences.wellcomeconnectingscience.org/news_item/a-transformative-journey-in-global-training-online-in-a-post-pandemic-world/) en el desarrollo de dicho curso.
 
 ## Programa
 
