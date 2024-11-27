@@ -1,4 +1,4 @@
-# Curso SARS-CoV-2
+# Bioinformática para el análisis de SARS-CoV-2 para principiantes
 Repositorio del curso "Bioinformática para el análisis de SARS-CoV-2 para principiantes." 
 
 
